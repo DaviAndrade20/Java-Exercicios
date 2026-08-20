@@ -1,11 +1,11 @@
 package com.primeiralista.faesa;
 
+/* Faça um programa que leia três valores inteiros, calcule e exiba a sua média ponderada. 
+ * A primeira nota tem peso 2, a segunda tem peso 3 e a terceira tem peso 5. 
+ */
+
 import java.util.Scanner;
 public class Exercicio1 {
-	
-	/* Faça um programa que leia três valores inteiros, calcule e exiba a sua média ponderada. 
-	 * A primeira nota tem peso 2, a segunda tem peso 3 e a terceira tem peso 5. 
-	 */
 	
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);
