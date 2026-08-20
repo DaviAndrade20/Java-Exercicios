@@ -1,4 +1,4 @@
-# ☕ Exercícios de Java
+# Exercícios de Java
 
 Esse repositório guarda os meus exercícios e durante minha jornada de aprendizado em **Java**.
 
