@@ -1,4 +1,4 @@
-package fundamentos;
+package com.w3resource.exercicios;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package fundamentos;
+package com.w3resource.exercicios;
 
 public class DecimoExercicio {
 

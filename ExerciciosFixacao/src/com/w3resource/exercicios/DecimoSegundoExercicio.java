@@ -1,4 +1,4 @@
-package fundamentos;
+package com.w3resource.exercicios;
 
 import java.util.Scanner;
 public class DecimoSegundoExercicio {
@@ -22,7 +22,7 @@ public class DecimoSegundoExercicio {
 		
 		average = (n1 + n2 + n3)/3;
 		System.out.printf("The average is: %d", average);
-
+		in.close();
 	}
 
 }
