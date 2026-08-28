@@ -1,5 +1,9 @@
 package com.primeiralista.faesa;
 
+/* Fazer um programa que leia um número inteiro e mostre o seu triplo, sua metade, a sua raiz cúbica, e por 
+ *  fim, o número elevado a potência fracionária 2/3. 
+ */
+
 import java.util.Scanner;
 
 public class Exercicio6 {

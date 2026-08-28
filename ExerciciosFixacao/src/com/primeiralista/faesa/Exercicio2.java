@@ -1,5 +1,12 @@
 package com.primeiralista.faesa;
 
+/* Realizarei uma viagem de vários dias em meu automóvel, e gostaria de saber a quilometragem média por
+ * litro de gasolina. Para isto, anotarei a quilometragem no velocímetro ao sair de viagem, e depois ao chegar.
+ * Também vou somar toda a gasolina que comprar para o carro. Você poderia fazer um programa que me
+ * desse, com estes dados, quantos km fiz, em média, por litro de gasolina? 
+ */
+
+
 import java.util.Scanner;
 
 public class Exercicio2 {
@@ -10,9 +17,9 @@ public class Exercicio2 {
 		int kmInicial, kmFinal, kmPercorrido;
 		
 		// Cálculo da quilômetragem
-		System.out.println("Quilômetragem Inicial: ");
+		System.out.println("KM Inicial: ");
 		kmInicial = in.nextInt();
-		System.out.println("Quilômetragem Final: ");
+		System.out.println("KM Final: ");
 		kmFinal = in.nextInt();
 		
 		kmPercorrido = kmFinal - kmInicial;

@@ -1,11 +1,15 @@
 package com.primeiralista.faesa;
 
+/*A conversão de graus Fahrenheit para Celsius é obtida pela fórmula: C = 5 / 9 * (F - 32)
+ * Faça um algoritmo que leia um  valor em graus Centígrados e imprima seu correspondente 
+ * em graus Fahrenheit.
+ */
+
 import java.util.Scanner;
 
 public class Exercicio5 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner scan = new Scanner(System.in);
 		
 		double c;
